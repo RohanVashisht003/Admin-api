@@ -7,7 +7,7 @@
 1. Clone or Download the Repo.
 2. Goto the Repo using Terminal. 
 3. Run npm install, to install dependencies.
-4. Run npm start to ignite the project.
+4. Run nodemon index.js to ignite the project.
 
 
 ## API endpoints
