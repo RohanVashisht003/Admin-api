@@ -157,7 +157,7 @@ module.exports.upload = async (req, res) => {
             });
         }
         return res.status(500).send({
-            message: `Could not upload the file: ${req.file.originalname}. ${err}`,
+            message: `Could not upload the file`,
         });
     }
 };
