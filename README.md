@@ -1,5 +1,5 @@
-# Grocery-Store-Backend
- A backend application for grocery store.
+# Admin-api
+
 
 ## Tech Stack: Node, Express, Mongo
 
